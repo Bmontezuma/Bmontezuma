@@ -25,7 +25,7 @@ I am currently enrolled at Atlas School in Tulsa, OK. taking Computer Science an
 - ❓ Ask me about anything related to Unreal Engine  
   
 
-- ⚡ Fun fact: I love working with and learning Unreal Engine   
+- ⚡ Fun fact: I love working with and learning Unreal Engine. I also like Heavy Metal and Smooth Jazz.   
 
 
 </td><td valign="top" width="50%">
