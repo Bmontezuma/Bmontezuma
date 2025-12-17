@@ -12,7 +12,11 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/montezumashare/)
 
 ### Welcome!  
-I am currently enrolled at Atlas School in Tulsa, OK. taking Computer Science and AR/VR development courses. I am also currently enrolled in several online courses for programming, Unreal Engine, Houdini, Blender, and Unity.
+I am an Unreal Engine Engineer with a background in Computer Science and AR/VR development, focused on building real-time, performing systems for interactive experiences.
+
+I’m a graduate of Atlas School (Tulsa, OK) and currently working with Kosmaco, where I contribute to Unreal Engine–based systems, tooling, and real-time workflows. My work emphasizes clean architecture, reusable systems, performance-aware design, and production-ready pipelines.
+
+My technical stack includes Unreal Engine (Blueprints & C++), real-time VFX pipelines, procedural workflows with Houdini, and supporting tools such as Blender and Unity. 
   
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
